@@ -2,7 +2,7 @@
 
 ## 概述
 
-使用说明：[女装大佬咩酱复现YOLOX](https://aistudio.baidu.com/aistudio/projectdetail/1156231)
+使用说明：[女装大佬咩酱复现YOLOX](https://aistudio.baidu.com/aistudio/projectdetail/2459470)
 
 
 喜欢的话点个喜欢或者关注我哦~
