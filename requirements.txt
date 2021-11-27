@@ -1,0 +1,5 @@
+paddlepaddle-gpu>=2.1.2
+loguru
+cython
+pycocotools
+shapely
